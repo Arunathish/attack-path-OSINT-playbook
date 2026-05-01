@@ -109,15 +109,4 @@ Phone → Legal Name (UPI) → LinkedIn → Email Pattern
 - Responsible disclosure is mandatory when findings affect real systems
 - Governed by applicable law — **India: IT Act 2000, DPDP Act 2023**
 
----
 
-## Contributing
-
-Found a gap, a broken tool link, or want to add a module?  
-Open an issue or submit a pull request. All contributions welcome.
-
----
-
-## License
-
-MIT License — use freely, credit appreciated.
