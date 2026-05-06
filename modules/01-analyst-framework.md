@@ -60,19 +60,7 @@ Each layer of the playbook is an expansion technique. You are always building a 
 
 ---
 
-## 4. When to Stop
-
-**Stop when:**
-- The objective is answered
-- Pivots become repetitive (same nodes, different routes)
-- Risk is demonstrable with current evidence
-- You are past the authorized scope
-
-Continuing past a clear finding wastes time and increases footprint risk. Document what you have. Make the case.
-
----
-
-## 5. The Six-Phase Methodology
+## 4. The Six-Phase Methodology
 
 ```
 Phase 1 — Hypothesis      What am I looking for and why might it exist?
@@ -85,7 +73,7 @@ Phase 6 — Documentation   Map to frameworks, score risk, write the report.
 
 ---
 
-## 6. Legal and Ethical Boundaries
+## 5. Legal and Ethical Boundaries
 
 - All techniques operate on **publicly available data only**
 - Active exploitation is **out of scope** — this is passive recon methodology
@@ -95,7 +83,7 @@ Phase 6 — Documentation   Map to frameworks, score risk, write the report.
 
 ---
 
-## 7. How the Execution Layers Connect
+## 6. How the Execution Layers Connect
 
 Each section of this playbook is an expansion layer within the Attack Path Model. Use this map to know where you are in an investigation:
 
