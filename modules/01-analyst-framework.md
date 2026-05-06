@@ -41,8 +41,6 @@ Each layer of the playbook is an expansion technique. You are always building a 
 
 ## 3. Signal vs Noise
 
-Not all findings are equal. Classify before you act.
-
 **High Signal**
 - Credentials (plaintext passwords, API keys, tokens)
 - Internal documents (org charts, reports, configs)
@@ -59,8 +57,6 @@ Not all findings are equal. Classify before you act.
 - Static marketing pages
 - Public-facing documentation (unless it reveals structure)
 - Generic social profiles with no sensitive content
-
-Prioritize high signal. Medium signal feeds the graph. Low signal is context — not a finding.
 
 ---
 
