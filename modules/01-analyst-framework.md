@@ -89,7 +89,7 @@ Each section of this playbook is an expansion layer within the Attack Path Model
 
 | Layer | Section | Role in Framework |
 |-------|---------|-------------------|
-| Entry Point | Google Dorking | Surface mapping, initial node discovery |
+| Entry Point | ./modules/ | Surface mapping, initial node discovery |
 | Infrastructure Expansion | Domain OSINT | Attack surface mapping, subdomain and DNS graph |
 | Identity Graph | Individual OSINT | Correlation, identity resolution, credential chains |
 | Document Intelligence | Document OSINT | Node enrichment, metadata, pretext material |
