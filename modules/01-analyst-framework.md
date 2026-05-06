@@ -89,13 +89,13 @@ Each section of this playbook is an expansion layer within the Attack Path Model
 
 | Layer | Section | Role in Framework |
 |-------|---------|-------------------|
-| Entry Point | ./modules/02-google-dorking.md | Surface mapping, initial node discovery |
-| Infrastructure Expansion | ./modules/03-domain-osint.md | Attack surface mapping, subdomain and DNS graph |
-| Identity Graph | ./modules/04-individual-osint.md | Correlation, identity resolution, credential chains |
-| Document Intelligence | ./modules/05-document-intelligence.md | Node enrichment, metadata, pretext material |
-| Platform Expansion | ./modules/09-telegram-osint.md | Community mapping, threat intel pivot |
-| Specialized Expansion | ./modules/10-wordpress-osint.md | Platform-specific risk reasoning |
-| Institutional Expansion | ./modules/11-government-osint.md | Domain-specific surface mapping |
-| Verification | ./modules/13-tool-reference.md | Automated confirmation of manual findings |
-| Defensive Mirror | ./modules/12-blue-team-detections.md | Detection logic for each offensive technique |
-| Proof of Concept | ./modules/14-case-study.md | Full chain walkthrough from entry to disclosure |
+| Entry Point | [Google Dorking](./modules/02-google-dorking.md)| Surface mapping, initial node discovery |
+| Infrastructure Expansion | [Domain OSINT](./modules/03-domain-osint.md) | Attack surface mapping, subdomain and DNS graph |
+| Identity Graph | [Individual OSINT](./modules/04-individual-osint.md) | Correlation, identity resolution, credential chains |
+| Document Intelligence | [Document Intelligence](./modules/05-document-intelligence.md) | Node enrichment, metadata, pretext material |
+| Platform Expansion | [Telegram OSINT](./modules/09-telegram-osint.md) | Community mapping, threat intel pivot |
+| Specialized Expansion | [WordPress OSINT](./modules/10-wordpress-osint.md) | Platform-specific risk reasoning |
+| Institutional Expansion | [Government OSINT](./modules/11-government-osint.md) | Domain-specific surface mapping |
+| Verification | [Tool Reference](./modules/13-tool-reference.md) | Automated confirmation of manual findings |
+| Defensive Mirror | [Blue Team Detections](./modules/12-blue-team-detections.md)| Detection logic for each offensive technique |
+| Proof of Concept | [Case Study](./modules/14-case-study.md) | Full chain walkthrough from entry to disclosure |
