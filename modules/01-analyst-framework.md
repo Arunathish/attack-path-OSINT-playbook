@@ -39,21 +39,7 @@ Each layer of the playbook is an expansion technique. You are always building a 
 
 ---
 
-## 3. Decision Logic
-
-Apply this at every step of an investigation:
-
-```
-If signal is strong   → go deeper on this node
-If signal is weak     → pivot to a different node
-If signal is noisy    → discard, document why, move on
-```
-
-Do not chase noise. One strong signal chain beats fifty weak leads.
-
----
-
-## 4. Signal vs Noise
+## 3. Signal vs Noise
 
 Not all findings are equal. Classify before you act.
 
@@ -78,7 +64,7 @@ Prioritize high signal. Medium signal feeds the graph. Low signal is context —
 
 ---
 
-## 5. When to Stop
+## 4. When to Stop
 
 **Stop when:**
 - The objective is answered
@@ -90,7 +76,7 @@ Continuing past a clear finding wastes time and increases footprint risk. Docume
 
 ---
 
-## 6. The Six-Phase Methodology
+## 5. The Six-Phase Methodology
 
 ```
 Phase 1 — Hypothesis      What am I looking for and why might it exist?
@@ -103,7 +89,7 @@ Phase 6 — Documentation   Map to frameworks, score risk, write the report.
 
 ---
 
-## 7. Legal and Ethical Boundaries
+## 6. Legal and Ethical Boundaries
 
 - All techniques operate on **publicly available data only**
 - Active exploitation is **out of scope** — this is passive recon methodology
@@ -113,7 +99,7 @@ Phase 6 — Documentation   Map to frameworks, score risk, write the report.
 
 ---
 
-## 8. How the Execution Layers Connect
+## 7. How the Execution Layers Connect
 
 Each section of this playbook is an expansion layer within the Attack Path Model. Use this map to know where you are in an investigation:
 
