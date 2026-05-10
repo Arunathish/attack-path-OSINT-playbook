@@ -80,7 +80,7 @@ Phone number
   → Yandex → older accounts → deeper data
 ```
 
-Each step is passive. Each step uses only public data. That chain from a phone number to a full identity picture is what made me realize most people have no idea what their own exposure surface looks like.
+Each step is passive. Each step uses only public data. That was the moment I realized most people have no clue how exposed they actually are online.
 
 ---
 
