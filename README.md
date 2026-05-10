@@ -26,7 +26,7 @@ The questions that actually matter during an investigation are:
 
 Those questions don't appear in most guides. They're in every section of this one.
 
-Start with 01 — Analyst Framework. Every module that follows operates inside that framework. Techniques without a framework produce noise.
+Start with 01 — [Analyst Framework](./modules/01-analyst-framework.md). Every module that follows operates inside that framework. Techniques without a framework produce noise.
 
 ## Structure
 
