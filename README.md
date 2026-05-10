@@ -6,8 +6,6 @@ No exploits. No tools. Just search operators and the right questions.
 
 That made me think — if I could map this much from a browser tab, what does a real attacker see before they ever touch a target? This playbook is my attempt to answer that properly.
 
----
-
 ## What this is
 
 A field guide built around one idea: **OSINT is not a tool problem, it's a thinking problem.**
@@ -15,8 +13,6 @@ A field guide built around one idea: **OSINT is not a tool problem, it's a think
 Most guides hand you a list of commands and call it a methodology. This one works the other way — every section starts with the analyst question, builds the attack path, then references tools at the end as execution aids.
 
 Every offensive technique is paired with its defensive equivalent. Because if you understand how something is found, you understand how to stop it from being found.
-
----
 
 ## Why I built it this way
 
@@ -29,8 +25,6 @@ The questions that actually matter during an investigation are:
 - When do I go deeper? When do I pivot? When do I stop?
 
 Those questions don't appear in most guides. They're in every section of this one.
-
----
 
 Start with 01 — Analyst Framework. Every module that follows operates inside that framework. Techniques without a framework produce noise.
 
